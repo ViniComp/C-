@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654157398 source:d:\backup_atualizado\projetos\projetos_codeblocks\projetos\estudo\main.c
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+
